@@ -1,5 +1,5 @@
 # 💫 About Me:
-✅ Tum likh sakte ho:<br><br>🔭 I’m currently working on<br><br>Data Structures & Algorithms (LeetCode A2Z Sheet)<br>Building full-stack projects using MERN<br><br>👯 I’m looking to collaborate on<br><br>Open-source projects<br>Web development & DSA-based projects<br><br>🤝 I’m looking for help with<br><br>Advanced DSA (Dynamic Programming, Graphs)<br>System Design basics<br><br>🌱 I’m currently learning<br><br>MERN Stack (MongoDB, Express, React, Node)<br>Problem Solving & Competitive Programming<br><br>💬 Ask me about<br><br>DSA problems<br>Linked Lists, Recursion, Arrays<br>Beginner web dev<br><br>⚡ Fun fact<br><br>I solve coding problems daily and love breaking tough questions
+<br><br>🔭 I’m currently working on<br><br>Data Structures & Algorithms (LeetCode A2Z Sheet)<br>Building full-stack projects using MERN<br><br>👯 I’m looking to collaborate on<br><br>Open-source projects<br>Web development & DSA-based projects<br><br>🤝 I’m looking for help with<br><br>Advanced DSA (Dynamic Programming, Graphs)<br>System Design basics<br><br>🌱 I’m currently learning<br><br>MERN Stack (MongoDB, Express, React, Node)<br>Problem Solving & Competitive Programming<br><br>💬 Ask me about<br><br>DSA problems<br>Linked Lists, Recursion, Arrays<br>Beginner web dev<br><br>⚡ Fun fact<br><br>I solve coding problems daily and love breaking tough questions
 
 
 ## 🌐 Socials:
