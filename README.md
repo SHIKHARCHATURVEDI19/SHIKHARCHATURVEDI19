@@ -223,8 +223,8 @@ Built and deployed a platform to automatically track coding progress across Leet
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/SHIKHARCHATURVEDI19"><img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF" /></a>
-<a href="https://www.codechef.com/users/SHIKHARCHATURVEDI19"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
+<a href="https://codeforces.com/profile/DadaKing"><img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF" /></a>
+<a href="https://www.codechef.com/users/steam_array_16"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
 
 </div>
 
@@ -239,7 +239,7 @@ Built and deployed a platform to automatically track coding progress across Leet
 </td>
 <td align="center" valign="top" width="50%">
 
-<a href="https://codeforces.com/profile/SHIKHARCHATURVEDI19"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=SHIKHARCHATURVEDI19&theme=dark" width="100%" /></a>
+<a href="https://codeforces.com/profile/DadaKing"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=DadaKing&theme=dark" width="100%" /></a>
 
 </td>
 </tr>
