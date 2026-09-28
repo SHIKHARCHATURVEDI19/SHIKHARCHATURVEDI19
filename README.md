@@ -223,8 +223,8 @@ Built and deployed a platform to automatically track coding progress across Leet
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/DadaKing"><img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF" /></a>
-<a href="https://www.codechef.com/users/steam_array_16"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
+<img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638" />
 
 </div>
 
