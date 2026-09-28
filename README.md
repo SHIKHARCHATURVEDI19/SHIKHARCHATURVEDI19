@@ -232,14 +232,9 @@ Built and deployed a platform to automatically track coding progress across Leet
 
 <table align="center">
 <tr>
-<td align="center" valign="top" width="50%">
+<td align="center" valign="top" width="100%">
 
-<img src="assets/lc.svg" width="100%" />
-
-</td>
-<td align="center" valign="top" width="50%">
-
-<a href="https://codeforces.com/profile/DadaKing"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=DadaKing&theme=dark" width="100%" /></a>
+<img src="assets/lc.svg" width="50%" />
 
 </td>
 </tr>
