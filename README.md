@@ -1,293 +1,138 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Banner" width="100%" />
+<img src="./assets/hero.svg" alt="Shikhar Chaturvedi developer hero" width="100%"/>
 
+### `BUILD 鈥� LEARN 鈥� SHIP 鈥� REPEAT`
 
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Go+Enthusiast;Building+in+Public;Open+Source+Learner;Software+Engineer" alt="Typing SVG" />
-
-
-
-<a href="https://github.com/SHIKHARCHATURVEDI19"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
-<a href="https://linkedin.com/in/SHIKHARCHATURVEDI19/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
-<a href="https://medium.com/@SHIKHARCHATURVEDI19"><img src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=58A6FF" /></a>
-<a href="https://twitter.com/SHIKHARCHATURVEDI19"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=58A6FF" /></a>
-
-
-
-<img src="https://img.shields.io/github/followers/SHIKHARCHATURVEDI19?style=for-the-badge&color=1F6FEB&labelColor=0d1117&label=Followers" />
-<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/SHIKHARCHATURVEDI19/SHIKHARCHATURVEDI19/main/badges/stars.json&style=for-the-badge&labelColor=0d1117" />
-<img src="https://komarev.com/ghpvc/?username=SHIKHARCHATURVEDI19&color=1F6FEB&style=for-the-badge&label=Profile+Views" />
+<a href="https://github.com/Vex-15"><img src="https://img.shields.io/badge/GitHub-Vex--15-111827?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/shikhar-chaturvedi-890416361/"><img src="https://img.shields.io/badge/LinkedIn-Shikhar%20Chaturvedi-111827?style=for-the-badge&logo=linkedin" /></a>
 
 </div>
 
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
+## 馃憢 About Me
 
-<img src="assets/divider.svg" width="100%" />
-
-<!--  -->
-
-## About Me
-
-```yaml
-name: SHIKHAR CHATURVEDI
-role: Software Engineer & Backend Developer
-location: India
-education: B.Tech Information Technology
-graduation: 2028
-languages: [C++, JavaScript, TypeScript, Python]
-interests: [Backend Development, Data Structures & Algorithms, Full-Stack]
+```text
+Name        : Shikhar Chaturvedi
+Focus       : Full Stack Development 鈥� AI/ML 鈥� UI/UX
+Education   : B.Tech CSE
+Current     : Building products, competing in coding, learning by shipping
 ```
-> If a design can't survive production traffic, it isn't finished yet.
 
+I enjoy turning ideas into **usable products** 鈥� from full-stack platforms and dashboards to AI/ML pipelines and polished interfaces.
 
+> **I don't just learn technologies. I build with them.**
 
-<!-- <table>
-<tr>
-<td width="33%" valign="top">
+---
 
-**Focus**
+## 鈿� What I Build
 
-Backend engineering, distributed systems, and concurrency-first Go design.
+| Area | What I'm working on |
+|---|---|
+| 馃寪 Full Stack | Next.js, React, Node.js, Express, APIs |
+| 馃 AI / ML | ML pipelines, NLP, matching systems, applied AI |
+| 馃帹 UI / UX | Interactive interfaces, dashboards, motion and visual systems |
+| 馃О Developer Tools | Platforms for tracking, productivity and developer workflows |
+| 馃 Problem Solving | LeetCode, CodeChef, Codeforces and DSA |
 
-</td>
-<td width="33%" valign="top">
+---
 
-**Currently Building**
+## 馃洶锔� Tech Orbit
 
-Go backend projects that model real production constraints, not tutorials.
+<img src="./assets/tech-orbit.svg" alt="Technology orbit" width="100%"/>
 
-</td>
-<td width="33%" valign="top">
+---
 
-**Open To**
+## 馃殌 Featured Projects
 
-Backend/SWE internships (2027) and collaboration on Go-based systems.
+### 馃煟 Kodeleaf
+Developer-focused platform with gamification, leaderboards, scoring and progress tracking.
 
-</td>
-</tr>
-</table> -->
-<!--  -->
-<img src="assets/divider.svg" width="100%" />
-<!--
-## Currently Building
+**Stack:** `Next.js` `React` `TypeScript` `Tailwind` `PostgreSQL` `Prisma` `Redis`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 馃數 MentorTrack
+Mentor/mentee progress platform for tracking coding and GitHub activity, bulk uploads and historical analytics.
 
-<h3 align="center">KodeLeaf</h3>
+**Stack:** `Node.js` `Express` `Supabase` `PostgreSQL` `JWT` `Cron`
 
-<p align="center"><i>Developer Analytics Platform</i></p>
+### 馃煝 ACE Club Platform
+Club management platform covering authentication, content, events and member workflows.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
+**Stack:** `Next.js` `TypeScript` `Firebase` `Tailwind`
 
-<br/>
+### 馃煚 Amazon ML Challenge
+Entity-matching pipeline designed around large datasets and memory-efficient processing.
 
-Engineered a full-stack developer analytics platform integrating coding-platform data into a unified dashboard. Architected an asynchronous synchronization pipeline using BullMQ and Redis.
+**Stack:** `Python` `Polars` `NumPy` `HashingVectorizer` `KNN`
 
-**Core Capabilities**
+---
 
-`Asynchronous pipeline using BullMQ & Redis`
-`NextAuth.js with GitHub OAuth`
-`Interactive developer visualization`
-
-<p align="center">
-<a href="https://github.com/SHIKHARCHATURVEDI19/KodeLeaf"><img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=0d1117" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">MentorTrack</h3>
-
-<p align="center"><i>Student Performance Tracking Platform</i></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-</p>
-
-<br/>
-
-Built and deployed a platform to automatically track coding progress across LeetCode and GitHub. Developed automated daily historical snapshots to track student progress over time.
-
-**Core Capabilities**
-
-`Secure JWT authentication`
-`Daily historical snapshots & analytics`
-`Hardened REST APIs with Helmet`
-
-<p align="center">
-<a href="https://github.com/SHIKHARCHATURVEDI19/MentorTrack"><img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=0d1117" /></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" />
-
-<!-- (existing tech stack table stays here, unchanged) -->
-
-## Tech Stack
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,py" />
-
-</td>
-<td width="50%" valign="top">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,prisma" />
-
-</td>
-<td valign="top">
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Node.js-1F6FEB?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Express.js-1F6FEB?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/REST_APIs-1F6FEB?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/JWT_Auth-1F6FEB?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Redis-1F6FEB?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/BullMQ-1F6FEB?style=flat-square&labelColor=0d1117" />
-
-</td>
-</tr>
-</table>
-
-
-<img src="assets/divider.svg" width="100%" />
-
-
-## Achievements
+## 馃搳 GitHub Dashboard
 
 <div align="center">
-<img src="https://img.shields.io/badge/LeetCode_Max_Rating-1742-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeChef_Max_Rating-1486-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-<img src="https://img.shields.io/badge/Codeforces_Max_Rating-1140-58A6FF?style=for-the-badge&logo=codeforces&logoColor=white" />
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vex-15&show_icons=true&hide_border=true&theme=transparent&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&bg_color=00000000" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vex-15&layout=compact&hide_border=true&theme=transparent&title_color=67E8F9&text_color=CBD5E1&bg_color=00000000" height="180"/>
 
 <br/>
 
-<p align="center">
-<i>Solved 500+ Data Structures & Algorithms problems across multiple competitive programming and coding platforms; participated in 46 contests.</i>
-</p>
-
-<br/>
-
-### Highlights
-
-- **Finalist – India Innovates 2026**
-- **Runner-Up – National Level Unpollute Ideathon**
-- **Recognized by Former Union Minister Smriti Irani** for innovation in Smart Waste Management
-
-<br/>
-
-
-
-<img src="assets/divider.svg" width="100%" />
-
-## Competitive Programming
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638" />
+<img src="https://streak-stats.demolab.com?user=Vex-15&theme=transparent&hide_border=true&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B" width="70%"/>
 
 </div>
 
-<br/>
+---
 
-<table align="center">
-<tr>
-<td align="center" valign="top" width="100%">
-
-<img src="assets/lc.svg" width="50%" />
-
-</td>
-</tr>
-</table>
-
-
-
-<img src="assets/divider.svg" width="100%" />
-
-
-## GitHub Statistics
+## 馃З Contribution City
 
 <div align="center">
 
-<!-- <img src="https://raw.githubusercontent.com/SHIKHARCHATURVEDI19/SHIKHARCHATURVEDI19/output/github-contribution-grid-snake-dark.svg" width="100%" /> -->
+<img src="https://github-contributor-stats.vercel.app/api?username=Vex-15&limit=5&theme=dark&combine_all_yearly_contributions=true" width="90%" alt="Contribution statistics"/>
 
 </div>
 
-<br/>
+---
 
-<table align="center">
-<tr>
-<td align="center" valign="top" width="33%">
+## 馃幆 Current Focus
 
-<img src="https://github-stats-extended.vercel.app/api?username=SHIKHARCHATURVEDI19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" width="100%" />
+```text
+[鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻戔枒]  Full Stack Engineering
+[鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枒鈻戔枒鈻戔枒]  AI / ML
+[鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻戔枒鈻戔枒鈻戔枒]  DSA & Competitive Programming
+[鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻戔枒鈻戔枒鈻戔枒鈻戔枒]  UI / UX
+```
 
-</td>
-<td align="center" valign="top" width="33%">
+- Building production-style full-stack applications
+- Improving DSA and competitive programming consistency
+- Exploring practical AI/ML systems
+- Creating interfaces that feel as good as they work
 
-<img src="https://streak-stats.demolab.com/?user=SHIKHARCHATURVEDI19&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF" width="100%" />
+---
 
-</td>
-<td align="center" valign="top" width="33%">
+## 馃幑 Beyond Code
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SHIKHARCHATURVEDI19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" width="100%" />
+`馃幑 Piano` 路 `馃摲 Photography` 路 `鉁忥笍 Sketching` 路 `馃帹 UI/UX` 路 `馃 AI` 路 `馃捇 Coding`
 
-</td>
-</tr>
-</table>
+---
 
-<img src="assets/divider.svg" width="100%" />
+## 馃 Let's Connect
 
 <div align="center">
 
+<a href="https://github.com/Vex-15">
+<img src="https://img.shields.io/badge/GitHub-Vex--15-0B1020?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/shikhar-chaturvedi-890416361/">
+<img src="https://img.shields.io/badge/LinkedIn-Shikhar%20Chaturvedi-0B1020?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### Thanks for stopping by
+<br/><br/>
 
+<img src="./assets/character.png" alt="Shikhar Chaturvedi" width="430"/>
 
+<br/>
 
-
-<img src="https://img.shields.io/badge/Always_Building-0d1117?style=for-the-badge&labelColor=0d1117&color=58A6FF" />
-<img src="https://img.shields.io/badge/Always_Learning-0d1117?style=for-the-badge&labelColor=0d1117&color=58A6FF" />
-<img src="https://img.shields.io/badge/Always_Improving-0d1117?style=for-the-badge&labelColor=0d1117&color=58A6FF" />
-
+<sub>Thanks for stopping by. Now go build something.</sub>
 
 </div>
